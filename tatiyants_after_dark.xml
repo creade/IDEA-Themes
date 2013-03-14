@@ -26,7 +26,7 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="fa7c70" />
+        <option name="BACKGROUND" value="692f29" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -55,7 +55,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -256,7 +256,7 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="85554c" />
+        <option name="BACKGROUND" value="348385" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -296,6 +296,16 @@
     <option name="GHERKIN_TABLE_PIPE">
       <value>
         <option name="FOREGROUND" value="80c138" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="GHERKIN_TAG">
+      <value>
+        <option name="FOREGROUND" value="d720ff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
